@@ -9,4 +9,4 @@ Run python3 PupilDetection.py
 
 haarcascae_eye.xml is the trained model.
 
-(https://user-images.githubusercontent.com/65228583/169611812-e39683bc-30d1-43c6-b554-fe68fb8b29fd.png)
+Image1 shows that the tracking pupil and showing somw other information too. When the video is close, it will show the matlab plot of the diameter of the pupil. which can be seen in Image2.
