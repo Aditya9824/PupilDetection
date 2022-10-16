@@ -1,7 +1,7 @@
 # PupilDetection
-This project recognizes the pupil and displays its size on the screen. Python and OpenCV were used to develop this project. 
+      This project recognizes the pupil and displays its size on the screen. Python and OpenCV were used to develop this project. 
 
-In the project directory, place the video on which you wish to run the algorithm.
+      In the project directory, place the video on which you wish to run the algorithm.
 
 Alter the variable 'cap'.
 
